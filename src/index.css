@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Fira+Code:wght@500;600&family=Fuzzy+Bubbles:wght@400;700&family=Lugrasimo&family=Open+Sans:wght@300;400;500;600;700;800&family=Roboto:wght@100&family=Special+Elite&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
